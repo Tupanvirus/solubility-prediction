@@ -1,0 +1,17 @@
+{
+  "r2": 0.8635846813274897,
+  "rmse": 0.8029996290911978,
+  "mae": 0.5582324866481029,
+  "n_train": 902,
+  "n_test": 226,
+  "feature_importances": {
+    "MolWt": 0.0932,
+    "LogP": 0.824,
+    "NumHDonors": 0.0051,
+    "NumHAcceptors": 0.0089,
+    "TPSA": 0.0403,
+    "NumRotatableBonds": 0.0083,
+    "RingCount": 0.0086,
+    "AromaticProportion": 0.0117
+  }
+}

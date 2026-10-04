@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# Trained model artifact - reproducible via `python src/train.py`,
+# not committed to keep the repo lightweight.
+results/model.joblib
+ruff-cache/
